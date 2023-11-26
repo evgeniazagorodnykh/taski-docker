@@ -11,6 +11,7 @@ jobs:
     # Разворачиваем окружение:
     runs-on: ubuntu-latest
 
+
     steps:
     # Копируем код проекта
     - name: Check out code
