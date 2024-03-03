@@ -1,4 +1,6 @@
 ### taski-docker
+<img width="420" alt="image" src="https://github.com/evgeniazagorodnykh/taski-docker/assets/129388336/98dffe4e-36f3-405c-9e6d-44f221852a6a">
+<img width="420" alt="image" src="https://github.com/evgeniazagorodnykh/taski-docker/assets/129388336/4d66eea5-482c-4e05-9709-c248005b5659">
 
 ## Описание
 
